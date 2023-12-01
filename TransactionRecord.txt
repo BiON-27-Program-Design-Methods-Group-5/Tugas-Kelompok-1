@@ -1,0 +1,40 @@
+Date: 1 Juni 2020
+RoomNum: 1
+TotalMoney: 1000000
+#
+Date: 3 Juni 2020
+RoomNum: 2
+TotalMoney: 1000000
+#
+Date: 4 Juni 2020
+RoomNum: 3
+TotalMoney: 1000000
+#
+Date: 2 Juni 2020
+RoomNum: 4
+TotalMoney: 1000000
+#
+Date: 5 Juni 2020
+RoomNum: 5
+TotalMoney: 1000000
+#
+Date: 7 Juni 2020
+RoomNum: 6
+TotalMoney: 1000000
+#
+Date: 9 Juni 2020
+RoomNum: 7
+TotalMoney: 1000000
+#
+Date: 3 Juni 2020
+RoomNum: 8
+TotalMoney: 1000000
+#
+Date: 9 Juni 2020
+RoomNum: 9
+TotalMoney: 1000000
+#
+Date: 4 Juni 2020
+RoomNum: 10
+TotalMoney: 1000000
+#
